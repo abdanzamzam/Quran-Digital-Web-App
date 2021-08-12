@@ -1,4 +1,4 @@
 # Quran-Digital-Web-React-JS
 Quran Digital Web React JS
 
-Demo: https://quran-digital.abdan.xyz/surah/1
+Demo: https://quran-digital.abdan.xyz
