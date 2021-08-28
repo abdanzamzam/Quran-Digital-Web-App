@@ -1,5 +1,5 @@
-# Quran-Digital-Web-React-JS
-Quran Digital Web React JS
+# Quran Digital - Web React.js
+In this case, I am trying to make a web version of the digital quran application. I am using third party quran API. For client side I use react.js and redux.
 
 Demo: https://quran-digital.abdan.xyz
 
